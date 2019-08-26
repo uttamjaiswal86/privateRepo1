@@ -1,0 +1,17 @@
+Official Tutorials Reference Link:-
+https://docs.djangoproject.com/en/2.0/intro/tutorial01/.
+Download a Python installer at https://www.python.org/downloads/windows/
+Virtual :- https://virtualenv.pypa.io/en/latest/
+Vitual Wrapper :- https://virtualenvwrapper.readthedocs.io/en/latest/
+PIP https://pip.pypa.io/en/stable/installing/
+Djanog installation guide :- at https://docs.djangoproject.com/en/2.0/topics/install/
+How to deploy Django with different web servers at https://docs.djangoproject.com/en/2.0/howto/deployment/wsgi/
+All settings and their default values in https://docs.djangoproject.com/en/2.0/ref/settings/
+Model on delete in details https://docs.djangoproject.com/en/2.0/ref/models/fields/#django.db.models.ForeignKey.on_delete
+Django's different types of fields for models : https://docs.djangoproject.com/en/2.0/ref/models/fields/
+Data model reference at https://docs.djangoproject.com/en/2.0/ref/models/
+path converters provided by Django at https://docs.djangoproject.com/en/2.0/topics/http/urls/#path-converters
+regular expressions at https://docs.djangoproject.com/en/2.0/ref/urls/#django.urls.re_path
+RegEx :- https://docs.python.org/3/howto/regex.html
+URL namespaces at https://docs.djangoproject.com/en/2.0/topics/http/urls/#url-namespaces
+class-based views at https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/
