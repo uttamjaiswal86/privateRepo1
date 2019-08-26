@@ -1,0 +1,1 @@
+#This is for notes of chapter two of Django 2 by Example book
