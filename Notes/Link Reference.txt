@@ -15,3 +15,11 @@ regular expressions at https://docs.djangoproject.com/en/2.0/ref/urls/#django.ur
 RegEx :- https://docs.python.org/3/howto/regex.html
 URL namespaces at https://docs.djangoproject.com/en/2.0/topics/http/urls/#url-namespaces
 class-based views at https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/
+https://docs.djangoproject.com/en/2.0/ref/templates/builtins
+https://docs.djangoproject.com/en/2.0/topics/db/aggregation/
+https://docs.djangoproject.com/en/2.0/howto/custom-template-tags/
+https://daringfireball.net/projects/markdown/basics
+[imp]https://docs.djangoproject.com/en/2.0/howto/custom-template-tags/#writing-customtemplate-filters
+https://docs.djangoproject.com/en/2.0/ref/contrib/sitemaps/
+https://www.postgresql.org/docs/10/static/textsearch.html
+
